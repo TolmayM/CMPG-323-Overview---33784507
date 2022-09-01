@@ -22,3 +22,15 @@ In this assignment I will use two branches: a main branch and a secondary branch
 Information </h2>
 
 If there are any sensitive information that I wouldnt like to share I will make use of the .gitignore function to specify the files with the information that I would like to hide.
+
+Breakdown Chart
+![image](https://user-images.githubusercontent.com/88318635/187947331-ddbeb53e-f781-432d-ba02-41d51e39959a.png)
+
+Number of items by label
+![image](https://user-images.githubusercontent.com/88318635/187947664-4645fe85-542f-4b17-a64f-007e02a0b4e2.png)
+
+Number of items by sprint
+![image](https://user-images.githubusercontent.com/88318635/187947733-473a312c-500a-4c58-a43d-cfe272e5d1c1.png)
+
+Number of items by status
+![image](https://user-images.githubusercontent.com/88318635/187947925-4a95fcbe-8164-4a0b-aea8-ad5b7f54ab42.png)
